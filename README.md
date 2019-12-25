@@ -12,21 +12,21 @@ or
 
 Library/Framework i use for this project:
 
-[React JS](https://reactjs.org/)
-[Redux](https://redux.js.org/)
-[Redux-Saga](https://redux-saga.js.org/)
-[React-Router-Dom](https://reacttraining.com/react-router/web)
-[Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-[Slick](https://kenwheeler.github.io/slick/)
-[Isomorphic-Fetch](https://github.com/matthew-andrews/isomorphic-fetch)
-[Moment](https://momentjs.com/)
-[JS_Cookie](https://github.com/js-cookie/js-cookie)
-[Font Awesome](https://fontawesome.com/)
+[React JS](https://reactjs.org/)<br />
+[Redux](https://redux.js.org/)<br />
+[Redux-Saga](https://redux-saga.js.org/)<br />
+[React-Router-Dom](https://reacttraining.com/react-router/web)<br />
+[Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)<br />
+[Slick](https://kenwheeler.github.io/slick/)<br />
+[Isomorphic-Fetch](https://github.com/matthew-andrews/isomorphic-fetch)<br />
+[Moment](https://momentjs.com/)<br />
+[JS_Cookie](https://github.com/js-cookie/js-cookie)<br />
+[Font Awesome](https://fontawesome.com/)<br />
 
 Deployed using:
-[NGINX](https://www.nginx.com/)
-[AWS AMAZON LINUX 2 AMI Instance] = (https://aws.amazon.com/)
-[PM2](https://pm2.keymetrics.io/)
+[NGINX](https://www.nginx.com/)<br />
+[AWS AMAZON LINUX 2 AMI Instance](https://aws.amazon.com/)<br />
+[PM2](https://pm2.keymetrics.io/)<br />
 
 
 
