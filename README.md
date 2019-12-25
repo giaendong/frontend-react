@@ -1,5 +1,36 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## QUICK RUN
+
+After the repository cloned. run the following scripts:
+
+### `npm install`
+
+### `npm start`
+or
+### `npm run build`
+
+Library/Framework i use for this project:
+
+[React JS](https://reactjs.org/)
+[Redux](https://redux.js.org/)
+[Redux-Saga](https://redux-saga.js.org/)
+[React-Router-Dom](https://reacttraining.com/react-router/web)
+[Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+[Slick](https://kenwheeler.github.io/slick/)
+[Isomorphic-Fetch](https://github.com/matthew-andrews/isomorphic-fetch)
+[Moment](https://momentjs.com/)
+[JS_Cookie](https://github.com/js-cookie/js-cookie)
+[Font Awesome](https://fontawesome.com/)
+
+Deployed using:
+[NGINX](https://www.nginx.com/)
+[AWS AMAZON LINUX 2 AMI Instance] = (https://aws.amazon.com/)
+[PM2](https://pm2.keymetrics.io/)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
