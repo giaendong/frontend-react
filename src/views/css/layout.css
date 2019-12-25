@@ -1,0 +1,118 @@
+.main-wrapper {
+    padding-top: 70px;
+    background-color: #e8e8e8;
+}
+nav .login-button {
+    background-image: linear-gradient(127deg, purple , mediumorchid);
+    background-repeat: repeat-y;
+    color: gold;
+    transition: 0.3s;
+}
+
+nav .login-button:hover {
+    background-image: linear-gradient(127deg , orange, gold);
+    background-repeat: repeat-y;
+    color: mediumorchid;
+}
+
+h5.list-title {
+    color: mediumorchid;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.card-layout, .card-layout-discover {
+    background: linear-gradient(127deg, purple , mediumorchid);
+    color:  white;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.card-layout:hover, .card-layout-discover:hover {
+    box-shadow: 7px 7px 10px black;
+}
+
+.card-layout .card-body, .card-layout-discover .card-body {
+    padding: 7px ;
+}
+.card-layout .card-body p, .card-layout-discover .card-body p {    
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-layout div.vote-text, .card-layout-discover div.vote-text {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: rgba(173, 173, 173, 0.5);
+    padding: 3px;
+}
+
+.slick-slide {
+    padding: 15px;
+}
+  
+.slick-list {
+    margin: 0 2em;
+}
+
+.slick-prev {
+    width: 30px;
+    left: 3% !important;
+    z-index: 1;
+}
+.slick-next {
+    right: 3% !important;
+    z-index: 1;
+}
+
+.discover-row {
+    margin: 0px 50px;
+}
+
+.discover-row .card-layout-discover {
+    margin-bottom: 15px;
+}
+
+.genre-btn-toolbar {
+    padding: 15px;
+    margin-left: 30px;
+}
+.genre-btn-toolbar.genre-single-btn-toolbar {
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.genre-btn-toolbar .btn-group {
+    margin-right: 7px;
+    margin-bottom: 15px;
+}
+
+.genre-btn-toolbar .btn-group .btn.active, .genre-btn-toolbar .btn-group .btn:hover {
+    color: mediumorchid;
+}
+
+.page-footer {
+    background: linear-gradient(127deg, purple , mediumorchid, mediumpurple);
+    color: white;
+}
+
+.wrapper-single-image, .wrapper-single-episode {
+    padding: 50px;
+}
+.custom-single-image {
+    border-radius: 5px;
+    width: 100%;
+}
+
+.wrapper-single-desc {
+    padding: 50px 50px 50px 0px;
+}
+
+.ul-no-padding {
+    padding: 0;
+    list-style-type: none;
+}
