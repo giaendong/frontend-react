@@ -51,7 +51,8 @@ class Home extends Component {
         let newGenre = [ ...genre ]
         newGenre.splice(index, 1);
         this.setState({
-          genre: newGenre
+          genre: newGenre,
+          page: 1
         })
         element.classList.remove('active');
       }
@@ -59,11 +60,11 @@ class Home extends Component {
       const newGenre = [ ...genre, id]
       console.log(newGenre)
       this.setState({
-        genre: newGenre
+        genre: newGenre,
+        page: 1
       })
       element.classList.add('active');
     }
-    console.log(element)
   }
 
   handlePage(page) {
